@@ -4,7 +4,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2059%20mins-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -58,5 +58,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 15:12:09 UTC
+ Last Updated on 13/06/2022 15:17:25 UTC
 <!--END_SECTION:waka-->
