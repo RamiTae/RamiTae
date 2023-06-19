@@ -1,8 +1,5 @@
 ## Rami Tae
 
-![RamiTae's github stats](https://github-readme-stats.vercel.app/api?username=RamiTae&show_icons=true&theme=tokyonight)
-
----
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2059%20mins-blue)
 
