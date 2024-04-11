@@ -29,8 +29,6 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Seoul
-
 💬 Programming Languages: 
 TypeScript               31 mins             █████████████████████████   99.63% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
@@ -56,5 +54,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 04:33:51 UTC
+ Last Updated on 11/04/2024 04:46:59 UTC
 <!--END_SECTION:waka-->
