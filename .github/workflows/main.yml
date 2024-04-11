@@ -19,4 +19,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
-          TIME_RANGEL: "all_time"
+          SHOW_TIMEZONE: "False"
