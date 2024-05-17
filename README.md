@@ -32,13 +32,13 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -55,5 +55,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2024 15:03:21 UTC
+ Last Updated on 17/05/2024 15:03:23 UTC
 <!--END_SECTION:waka-->
