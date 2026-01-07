@@ -1,7 +1,7 @@
 ## Rami Tae
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C901%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C909%20hrs%2011%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -32,13 +32,17 @@ Sunday       40 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               6 hrs 37 mins       ██████████████████████░░░   88.67% 
+Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   7 hrs 28 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -55,5 +59,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2026 15:04:26 UTC
+ Last Updated on 07/01/2026 15:05:07 UTC
 <!--END_SECTION:waka-->
