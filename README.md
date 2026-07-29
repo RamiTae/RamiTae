@@ -1,7 +1,7 @@
 ## Rami Tae
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C599%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C600%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -32,18 +32,18 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               12 hrs 13 mins      ██████████████████░░░░░░░   72.32% 
-Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
-YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
-JavaScript               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
-HTML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9%
+TypeScript               12 hrs 15 mins      █████████████████░░░░░░░░   68.04% 
+Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
+Text                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.59% 
+JavaScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72%
 
 🔥 Editors: 
-Claude Code              14 hrs 31 mins      █████████████████████░░░░   85.94% 
-VS Code                  2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.06%
+Claude Code              15 hrs 38 mins      █████████████████████░░░░   86.82% 
+VS Code                  2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18%
 
 💻 Operating System: 
-Mac                      16 hrs 54 mins      █████████████████████████   100.0%
+Mac                      18 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
@@ -60,5 +60,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 16:29:30 UTC
+ Last Updated on 29/07/2026 16:16:55 UTC
 <!--END_SECTION:waka-->
