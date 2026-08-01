@@ -1,7 +1,7 @@
 ## Rami Tae
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C607%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C612%20hrs%203%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -32,20 +32,20 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               14 hrs 40 mins      █████████████░░░░░░░░░░░░   55.09% 
-Markdown                 6 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   26.17% 
-Text                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.25% 
-JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
-Bash                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
+TypeScript               9 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   43.35% 
+Markdown                 7 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   34.69% 
+JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
+Text                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
+HTML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.63%
 
 🔥 Editors: 
-Claude Code              24 hrs 3 mins       ██████████████████████░░░   90.32% 
-VS Code                  2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
-Cursor                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
-Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+Claude Code              21 hrs 37 mins      ████████████████████████░   98.02% 
+Cursor                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
+Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 💻 Operating System: 
-Mac                      26 hrs 38 mins      █████████████████████████   100.0%
+Mac                      22 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
@@ -62,5 +62,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 16:42:48 UTC
+ Last Updated on 01/08/2026 15:56:58 UTC
 <!--END_SECTION:waka-->
