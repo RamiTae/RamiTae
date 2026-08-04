@@ -1,7 +1,7 @@
 ## Rami Tae
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C612%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C616%20hrs-blue)
 
 **I'm a Night 🦉** 
 
@@ -32,20 +32,20 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               9 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   43.35% 
-Markdown                 7 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   34.69% 
-JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
-Text                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
-HTML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.63%
+TypeScript               8 hrs 44 mins       █████████████░░░░░░░░░░░░   52.28% 
+Markdown                 4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   26.15% 
+Text                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
+HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
 
 🔥 Editors: 
-Claude Code              21 hrs 37 mins      ████████████████████████░   98.02% 
-Cursor                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
-Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Claude Code              16 hrs 1 min        ████████████████████████░   95.84% 
+Cursor                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19% 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62% 
+Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
 
 💻 Operating System: 
-Mac                      22 hrs 3 mins       █████████████████████████   100.0%
+Mac                      16 hrs 42 mins      █████████████████████████   100.0%
 
 ```
 
@@ -62,5 +62,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 17:06:14 UTC
+ Last Updated on 04/08/2026 16:48:06 UTC
 <!--END_SECTION:waka-->
