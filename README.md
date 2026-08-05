@@ -1,7 +1,7 @@
 ## Rami Tae
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C616%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C623%20hrs%2011%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -32,20 +32,21 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               8 hrs 44 mins       █████████████░░░░░░░░░░░░   52.28% 
-Markdown                 4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   26.15% 
-Text                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
-HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
+TypeScript               18 hrs 11 mins      ████████████░░░░░░░░░░░░░   48.2% 
+Markdown                 13 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   35.63% 
+JavaScript               2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
+Bash                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
+Text                     53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37%
 
 🔥 Editors: 
-Claude Code              16 hrs 1 min        ████████████████████████░   95.84% 
-Cursor                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19% 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62% 
-Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+Claude Code              36 hrs 38 mins      ████████████████████████░   97.06% 
+VS Code                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
+Cursor                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97% 
+Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
+Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-Mac                      16 hrs 42 mins      █████████████████████████   100.0%
+Mac                      37 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
@@ -62,5 +63,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 16:48:06 UTC
+ Last Updated on 05/08/2026 16:27:58 UTC
 <!--END_SECTION:waka-->
