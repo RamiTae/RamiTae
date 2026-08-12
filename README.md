@@ -1,7 +1,7 @@
 ## Rami Tae
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C643%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C647%20hrs%2047%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -32,19 +32,20 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               14 hrs 2 mins       █████████████░░░░░░░░░░░░   51.99% 
-Markdown                 9 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.78% 
-JavaScript               53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
-JSON                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4% 
-Other                    38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37%
+TypeScript               15 hrs 29 mins      █████████████░░░░░░░░░░░░   54.22% 
+Markdown                 11 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   40.03% 
+JSON                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07% 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92% 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 
 🔥 Editors: 
-Claude Code              24 hrs 11 mins      ██████████████████████░░░   89.57% 
-VS Code                  2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
-Sublime Text             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+Claude Code              27 hrs 30 mins      ████████████████████████░   96.31% 
+VS Code                  56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
+Sublime Text             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 💻 Operating System: 
-Mac                      27 hrs              █████████████████████████   100.0%
+Mac                      28 hrs 33 mins      █████████████████████████   100.0%
 
 ```
 
@@ -61,5 +62,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 15:55:06 UTC
+ Last Updated on 12/08/2026 15:54:23 UTC
 <!--END_SECTION:waka-->
