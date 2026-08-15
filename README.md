@@ -32,19 +32,19 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               10 hrs 26 mins      ████████████░░░░░░░░░░░░░   49.9% 
-Markdown                 9 hrs 39 mins       ███████████░░░░░░░░░░░░░░   46.12% 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06% 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
+TypeScript               10 hrs 26 mins      ████████████░░░░░░░░░░░░░   50.04% 
+Markdown                 9 hrs 39 mins       ███████████░░░░░░░░░░░░░░   46.25% 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
 Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
 🔥 Editors: 
-Claude Code              20 hrs 33 mins      ████████████████████████░   98.26% 
+Claude Code              20 hrs 30 mins      ████████████████████████░   98.26% 
 VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
 Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 💻 Operating System: 
-Mac                      20 hrs 55 mins      █████████████████████████   100.0%
+Mac                      20 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
@@ -61,5 +61,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 15:44:26 UTC
+ Last Updated on 15/08/2026 15:14:25 UTC
 <!--END_SECTION:waka-->
