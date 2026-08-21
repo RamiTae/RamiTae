@@ -1,7 +1,7 @@
 ## Rami Tae
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C667%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C678%20hrs%2018%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -32,19 +32,19 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 11 hrs 38 mins      ███████████░░░░░░░░░░░░░░   46.05% 
-TypeScript               10 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   41.27% 
-Text                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.73% 
-JSON                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-JavaScript               39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
+TypeScript               13 hrs 15 mins      ███████████░░░░░░░░░░░░░░   46.75% 
+Markdown                 11 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   39.19% 
+Text                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
+JavaScript               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
 
 🔥 Editors: 
-Claude Code              25 hrs 15 mins      █████████████████████████   99.86% 
-Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
-Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Claude Code              28 hrs 13 mins      ████████████████████████░   99.49% 
+Vim                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
+Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
-Mac                      25 hrs 17 mins      █████████████████████████   100.0%
+Mac                      28 hrs 22 mins      █████████████████████████   100.0%
 
 ```
 
@@ -61,5 +61,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 15:27:16 UTC
+ Last Updated on 21/08/2026 15:26:39 UTC
 <!--END_SECTION:waka-->
