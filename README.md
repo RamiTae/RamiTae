@@ -32,18 +32,18 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               21 hrs 45 mins      ████████████░░░░░░░░░░░░░   47.59% 
-Markdown                 15 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   33.73% 
-Text                     5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
-JavaScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
-HTML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
+TypeScript               17 hrs 6 mins       ███████████░░░░░░░░░░░░░░   45.0% 
+Markdown                 15 hrs              █████████░░░░░░░░░░░░░░░░   39.48% 
+Text                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
+JavaScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.93% 
+HTML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76%
 
 🔥 Editors: 
-Claude Code              45 hrs 23 mins      ████████████████████████░   99.31% 
-Sublime Text             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
+Claude Code              37 hrs 37 mins      ████████████████████████░   99.0% 
+Sublime Text             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
 
 💻 Operating System: 
-Mac                      45 hrs 42 mins      █████████████████████████   100.0%
+Mac                      38 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -60,5 +60,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 17:51:21 UTC
+ Last Updated on 14/09/2026 19:43:01 UTC
 <!--END_SECTION:waka-->
