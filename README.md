@@ -1,7 +1,7 @@
 ## Rami Tae
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C741%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C748%20hrs%2059%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -32,19 +32,19 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 17 hrs 57 mins      █████████████░░░░░░░░░░░░   53.89% 
-TypeScript               12 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   37.0% 
-Text                     1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
-JavaScript               50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
-Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
+Markdown                 18 hrs 50 mins      █████████████░░░░░░░░░░░░   52.98% 
+TypeScript               13 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   39.29% 
+Text                     1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
 
 🔥 Editors: 
-Claude Code              32 hrs 54 mins      ████████████████████████░   98.73% 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
-Sublime Text             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+Claude Code              35 hrs 8 mins       ████████████████████████░   98.8% 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
+Sublime Text             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
 💻 Operating System: 
-Mac                      33 hrs 20 mins      █████████████████████████   100.0%
+Mac                      35 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
@@ -61,5 +61,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 21:01:09 UTC
+ Last Updated on 29/09/2026 19:45:00 UTC
 <!--END_SECTION:waka-->
