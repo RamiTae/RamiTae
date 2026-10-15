@@ -32,21 +32,21 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 25 hrs 26 mins      ███████████████░░░░░░░░░░   63.17% 
-TypeScript               13 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   34.04% 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0% 
-Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
-Diff                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+Markdown                 12 hrs 47 mins      █████████████░░░░░░░░░░░░   55.22% 
+TypeScript               9 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   43.09% 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
+Diff                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-Claude Code              40 hrs 14 mins      █████████████████████████   99.88% 
-Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+Claude Code              23 hrs 6 mins       █████████████████████████   99.8% 
+Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
+Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Mac                      40 hrs 17 mins      █████████████████████████   100.0%
+Mac                      23 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
@@ -63,5 +63,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 19:07:28 UTC
+ Last Updated on 15/10/2026 18:49:44 UTC
 <!--END_SECTION:waka-->
