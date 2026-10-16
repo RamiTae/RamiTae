@@ -32,21 +32,19 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 12 hrs 47 mins      █████████████░░░░░░░░░░░░   55.22% 
-TypeScript               9 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   43.09% 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
-Diff                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+TypeScript               13 hrs 48 mins      █████████████░░░░░░░░░░░░   53.45% 
+Markdown                 9 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.13% 
+Text                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.14% 
+Other                    47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
+Diff                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
 
 🔥 Editors: 
-Claude Code              23 hrs 6 mins       █████████████████████████   99.8% 
-Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
+Claude Code              25 hrs 48 mins      █████████████████████████   99.94% 
 Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 💻 Operating System: 
-Mac                      23 hrs 9 mins       █████████████████████████   100.0%
+Mac                      25 hrs 49 mins      █████████████████████████   100.0%
 
 ```
 
@@ -63,5 +61,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 18:49:44 UTC
+ Last Updated on 16/10/2026 18:34:26 UTC
 <!--END_SECTION:waka-->
