@@ -32,18 +32,13 @@ Sunday       32 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               5 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.18% 
-Markdown                 5 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.69% 
-Text                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              12 hrs 15 mins      ████████████████████████░   99.48% 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 hrs 19 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -60,5 +55,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 18:02:01 UTC
+ Last Updated on 26/10/2026 20:16:02 UTC
 <!--END_SECTION:waka-->
